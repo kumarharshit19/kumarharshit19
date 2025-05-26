@@ -9,9 +9,9 @@
 
 - 💬 Ask me about **Frontend Development**
 
-- 📫 How to reach me **kumaarharshit19@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
+<h3 align="left">Connect with me: kumaarharshit19@gmail.com </h3>
 <p align="left">
 </p>
 
